@@ -1,6 +1,6 @@
 ## Rhylend Culver
-Electrical Engineering Student
-South Carolina
+- Electrical Engineering Student
+- South Carolina
 
 - Known Languages: Python | HTML
 - Learning Languges: Java | C++
