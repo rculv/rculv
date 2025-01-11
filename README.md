@@ -1,5 +1,11 @@
-## Hi there 👋
+## Rhylend Culver
+Electrical Engineering Student
+South Carolina
 
+- Known Languages: Python | HTML
+- Learning Languges: Java | C++
+- Current Projects: Explorer Autonomous Systems | project-eas.com
+- Email me at: rculver@project-eas.com
 <!--
 **rculv/rculv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
